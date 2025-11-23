@@ -1,4 +1,4 @@
-# 🕵️‍♂️🩷Arp-scan & OS detector Autor @wvverez
+# 🕵️‍♂️🩷Arp-scan & OS detector | Autor @wvverez
 
 Este script en bash permite escanear interfaces de red utilizando arp-scan, identificar dispositivos dentro de la red local, obtener su dirección IP,MAC y deducir su SO mediante el TTL. Además ofrece la opción de ejecutar un escaneo nmap básico sobre los hosts encontrados
 
@@ -39,6 +39,6 @@ Este script en bash permite escanear interfaces de red utilizando arp-scan, iden
 </pre>
 
 
-# Advertencia legal 
+# ⚠️ Advertencia legal 
 
 Este script es únicamente para fines educativos y auditorías en redes donde tengas autorización. El uso inapropiado no solo sería poco ético si no que además puede violar leyes de privacidad y seguridad infórmatica.
