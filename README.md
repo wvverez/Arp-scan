@@ -21,11 +21,19 @@ Este script en bash permite escanear interfaces de red utilizando arp-scan, iden
 </pre>
 
 <pre>
+  <code>
   cd Arp-scan-OS-detector
+  </code>
 </pre>
+
 <pre>
+  <code>
   chmod +x arpscan.sh
+  </code>
 </pre>
+
 <pre>
+  <code>
   ./arpscan.sh
+  </code>
 </pre>
