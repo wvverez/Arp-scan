@@ -12,4 +12,4 @@ Este script en bash permite escanear interfaces de red utilizando arp-scan, iden
 
 🚀 Escaneo opcional nmap de el resultado 
 
-#USO
+# USO
