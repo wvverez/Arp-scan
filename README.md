@@ -11,3 +11,5 @@ Este script en bash permite escanear interfaces de red utilizando arp-scan, iden
 📌 Omision de la MAC local 
 
 🚀 Escaneo opcional nmap de el resultado 
+
+#USO
