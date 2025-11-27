@@ -15,7 +15,7 @@ Este script en bash permite escanear interfaces de red utilizando arp-scan, iden
 
 🚀 Escaneo opcional nmap de el resultado 
 
-# Instalación
+# 💻 Instalación
 Primero clonas este repositorio
 <pre>
   <code>
