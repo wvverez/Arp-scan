@@ -41,9 +41,10 @@ Finalmente los ejecutas
   </code>
 </pre>
 
-# 🤝 Contribuciones
+# 👥 Contribuciones
 
 Las contribuciones son bienvenidas. Por favor, abre un issue o envía un pull request para cualquier mejora o correción que pueda hacer. 
+
 
 
 # 📲 Contacto en caso de fallos 
